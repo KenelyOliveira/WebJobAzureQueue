@@ -1,0 +1,12 @@
+C:\Users\Kenely\source\repos\NETCoreWebJobs\NETCoreWebJobs\bin\Debug\netcoreapp2.1\NETCoreWebJobs.deps.json
+C:\Users\Kenely\source\repos\NETCoreWebJobs\NETCoreWebJobs\bin\Debug\netcoreapp2.1\NETCoreWebJobs.runtimeconfig.json
+C:\Users\Kenely\source\repos\NETCoreWebJobs\NETCoreWebJobs\bin\Debug\netcoreapp2.1\NETCoreWebJobs.runtimeconfig.dev.json
+C:\Users\Kenely\source\repos\NETCoreWebJobs\NETCoreWebJobs\bin\Debug\netcoreapp2.1\NETCoreWebJobs.dll
+C:\Users\Kenely\source\repos\NETCoreWebJobs\NETCoreWebJobs\obj\Debug\netcoreapp2.1\NETCoreWebJobs.csproj.CoreCompileInputs.cache
+C:\Users\Kenely\source\repos\NETCoreWebJobs\NETCoreWebJobs\obj\Debug\netcoreapp2.1\NETCoreWebJobs.AssemblyInfoInputs.cache
+C:\Users\Kenely\source\repos\NETCoreWebJobs\NETCoreWebJobs\obj\Debug\netcoreapp2.1\NETCoreWebJobs.AssemblyInfo.cs
+C:\Users\Kenely\source\repos\NETCoreWebJobs\NETCoreWebJobs\obj\Debug\netcoreapp2.1\NETCoreWebJobs.csprojAssemblyReference.cache
+C:\Users\Kenely\source\repos\NETCoreWebJobs\NETCoreWebJobs\bin\Debug\netcoreapp2.1\NETCoreWebJobs.pdb
+C:\Users\Kenely\source\repos\NETCoreWebJobs\NETCoreWebJobs\obj\Debug\netcoreapp2.1\NETCoreWebJobs.dll
+C:\Users\Kenely\source\repos\NETCoreWebJobs\NETCoreWebJobs\obj\Debug\netcoreapp2.1\NETCoreWebJobs.pdb
+C:\Users\Kenely\source\repos\NETCoreWebJobs\NETCoreWebJobs\bin\Debug\netcoreapp2.1\appsettings.json
